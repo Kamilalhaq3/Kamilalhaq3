@@ -1,5 +1,13 @@
 ## Hi there 👋
+Perkenalkan nama saya **Azza Kamila Al Haq**.<br>
 
+Saya seorang **mahasiswa bisnis digital** di [UNESA](https://bisnisdigital.feb.unesa.ac.id).<br>
+
+Saya disana belajar mengenai manajemen bisnis, teknologi informasi, dan kewirausahaan digital.<br>
+
+Selain belajar, saya juga join komunitas GDGOC UNESA dengan peminatan product management.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/kamilalhaq3/)ku ya.
 <!--
 **Kamilalhaq3/Kamilalhaq3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
